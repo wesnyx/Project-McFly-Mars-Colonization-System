@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Ares ISRU: Mars Autonomous Habitat",
+  "description": "A mission control dashboard for Mars colonization, focusing on In-Situ Resource Utilization (ISRU) and autonomous habitat management.",
+  "requestFramePermissions": []
+}
